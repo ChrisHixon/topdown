@@ -1,6 +1,6 @@
 # TopDown
 
-TopDown is a Ruby PEG-like top-down recursive decent parser library. The parser grammar is defined with Ruby object code (similar to JSON). Also included is a library to parse PEG grammars with TopDown.
+TopDown is a Ruby PEG-like recursive decent parser library. The parser grammar is defined with Ruby object code (similar to JSON). Also included is a library to parse PEG grammars with TopDown.
 
 ## Status
 
