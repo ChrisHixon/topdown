@@ -10,9 +10,9 @@ This library is fairly complete and usable, but is lacking documentation and exa
 
 The easiest way to install TopDown is as a RubyGem:
 
-  $ umask 0022 # important if you have a restrictive umask
-  $ gem build ch-top_down.gemspec
-  $ sudo gem install ch-top_down-0.7.0.gem
+    $ umask 0022 # important if you have a restrictive umask
+    $ gem build ch-top_down.gemspec
+    $ sudo gem install ch-top_down-0.7.0.gem
   
 ## Examples
 
