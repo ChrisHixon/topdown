@@ -16,7 +16,7 @@ The easiest way to install TopDown is as a RubyGem:
   
 ## Examples
 
-Currently, there are no simple examples. I use TopDown's PEG parser to bootstrap chpeg, a C PEG parser/compiler library (http://github.com/ChrisHixon/chpeg, see bootstrap directory).
+Currently, there are no simple examples. I use TopDown's PEG parser to bootstrap chpeg, a PEG bytecode-based parser/compiler library written in C (http://github.com/ChrisHixon/chpeg, see bootstrap directory).
   
 ## TODO
 
